@@ -14,7 +14,7 @@
 
 
 ##  About <a name = "about"></a>
-This project has the capability to encrypt multidimensional scientific data.
+The project involves conducting experiments related to the paper "Organizing Records for Retrieval in Multi-Dimensional Range Searchable Encryption".
 
 ## 🏁 Dependencies <a name = "dependencies"></a>
 
