@@ -1,0 +1,50 @@
+
+sample_data:
+  root_dir : ./sample_data/
+  org_data : weather.txt
+  hdf5_org : weather.hdf5
+  hdf5_random : weather_random.hdf5
+  org_encrypted :  weather_encrypted.txt
+  hdf5_encrypted : weather_encrypted.hdf5
+  encrypted_shuffled :  weather_encrypted_shuffled.txt
+  hdf5_encrypted_shuffled : weather_encrypted_shuffled.hdf5
+  mapping : mapping.pkl
+  line_2_ijkm : line_2_ijkm.pkl
+  encrypted_shuffled_index0 :  weather_encrypted_shuffled_index0.txt
+  hdf5_encrypted_shuffled_index0 : weather_encrypted_shuffled_index0.hdf5
+  mapping_index0 : mapping_index0.pkl
+  encrypted_shuffled_index1 :  weather_encrypted_shuffled_index1.txt
+  hdf5_encrypted_shuffled_index1 : weather_encrypted_shuffled_index1.hdf5
+  mapping_index1 : mapping_index1.pkl
+  encrypted_shuffled_index2 : weather_encrypted_shuffled_index2.txt
+  hdf5_encrypted_shuffled_index2 : weather_encrypted_shuffled_index2.hdf5
+  mapping_index2 : mapping_index2.pkl
+  encrypted_shuffled_slab : weather_encrypted_shuffled_slab.txt
+  hdf5_encrypted_shuffled_slab : weather_encrypted_shuffled_slab.hdf5
+  mapping_slab : mapping_slab.pkl  
+  encrypted_shuffled_slab_matrix : weather_encrypted_shuffled_slab_matrix.txt
+  hdf5_encrypted_shuffled_slab_matrix : weather_encrypted_shuffled_slab_matrix.hdf5
+  mapping_slab_matrix : mapping_slab_matrix.pkl  
+  kdtree_encrypted_obj : kdtree_encrypted.pkl
+  kdtree_encrypted : kdtree_encrypted.txt
+  kdtree_encrypted_shuffled_obj : kdtree_encrypted_shuffled.pkl
+  kdtree_encrypted_shuffled : kdtree_encrypted_shuffled.txt
+  kdtree_encrypted_shuffled_slab : kdtree_encrypted_shuffled_slab.pkl
+  kdtree_encrypted_shuffled_slab_matrix : kdtree_encrypted_shuffled_slab_matrix.pkl
+
+report:
+  all_query_report: ./sample_data/all_query_report.csv
+  all_query_report_bucket: ./sample_data/all_query_report_bucket.csv
+
+crypto:
+  AES_key: BQBIl/nh6nZl/AGMv9xUCA==
+  iv: L91cVNUX8p2cqGMc5vhnAw==
+  AES_XTS_key: iflWIBPkfyXESQUCjFKVJTizl81s4hrvQuvdBBOd9WI=
+
+
+
+
+
+
+
+

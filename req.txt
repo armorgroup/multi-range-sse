@@ -1,0 +1,11 @@
+confuse==2.0.1
+numpy==1.24.3
+Pyfiglet==0.8.post1 
+termcolor==2.3.0
+pyinputplus==0.2.12
+h5py==3.8.0
+tqdm==4.65.0
+pycryptodome==3.18.0
+cryptography==40.0.2
+pandas 
+matplotlib
