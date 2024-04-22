@@ -35,6 +35,7 @@ sample_num is the number of sample random queries of the query shape.
 
 ### Generating Synthetic dataset
 Before running the query experiments we should generate synthetic datasets based on the desired configurations. You can set your desired dataset settings as described in the configurations sections in the construction.py file<br />
+Then, create a folder named 'sample_data' in the project's root directory.<br />
 Run the `python3 src/construction.py` to generate all the mappings, encryption, indexing, and the synthetic dataset.
 
 ### Isotropic queries
